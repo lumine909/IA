@@ -1,3 +1,16 @@
+# Titular Del Trabajo
+
+Titular: Diana Diaz
+Razon: El trabajo en equipo se realizo en la computadora de Diana 
+
+# Trabajo en equipo
+
+Trabajo en equipo autorizado por el tl de IA Angelo
+
+# contribuidores
+
+Diana Diaz, Francisco Zelgado, Santiago bvahos, Esnaider Muñoz
+
 # SismoTwin 4D — MVP funcional
 
 Laboratorio web de ingeniería con generación de geometrías reales, construcción por etapas, simulación numérica y comparación A/B.
